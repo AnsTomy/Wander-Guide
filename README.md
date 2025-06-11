@@ -1,14 +1,13 @@
-#  🌍 Wander Guide– Your Smart Travel Companion
+#  🛬 Wander Guide– Navigate the World Smarter
 
 
-**Wander Guide** is an all-in-one travel app built to simplify and enrich every journey. Whether you’re discovering hidden gems or planning a full itinerary, Wander Guide combines real-time updates, safety features, and a vibrant traveler community into one seamless experience.
+**Wander Guide** is your all-in-one travel app designed to simplify and enhance every journey. From uncovering hidden gems to organizing full itineraries, it brings together real-time updates, safety tools, and a dynamic traveler community—all in one seamless platform.
 
 ---
 
-## ✨ Features
-
-### 📍 Personalized Recommendations  
-- Get suggestions for local food spots, attractions, and stays based on your interests and location.
+## 🔆 Features
+### 💬 Language Translator
+- Easily avail local services and can interact with locals
 
 ### 🚖 Real-Time Cab Tracking  
 - Ensure your safety with live cab tracking. Share trip status with trusted contacts.
@@ -24,6 +23,9 @@
 
 ### 🛡️ Built-in Safety Features  
 - Location sharing, trusted guides, and secure travel suggestions make your journey safer.
+- 
+### 📍 Personalized Recommendations  
+- Get suggestions for local food spots, attractions, and stays based on your interests and location.
 
 ---
 
